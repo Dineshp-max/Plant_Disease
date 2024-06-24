@@ -1,0 +1,8 @@
+ Python 3.6 or higher
+   TensorFlow 2.x
+   Keras
+   OpenCV
+   NumPy
+   Pandas
+   Scikit-learn
+   Matplotlib
