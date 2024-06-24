@@ -36,8 +36,9 @@
    The model is evaluated using standard metrics such as precision, recall, specificity, f1 score, accuracy, loss, IoU, Mean IoU, Pixel Accuracy, and Dice-coefficient for segmentation model. Confusion matrices       and precision, recall, specificity, f1 score, accuracy are also generated for detailed analysis classification model.
    
 **10. Result:**
+
    **By utilizing the segmentation model** as proposed, **the training model achieved** a success rate with an **IOU of 0.9847, mean IOU of 0.9846**, weighted mean IOU of 0.9874, **pixel accuracy of 0.9993, mean pixel accuracy of 0.9993, dice coefficient of 0.9936**, mean boundary f1 score of 0.9557, precision of 0.9974, recall of 0.9975, f1 score of 0.9974, specificity of 0.9996, loss of 0.0079, and accuracy of 0.9993. **The Validation model achieved** success with the following metrics: **intersection over union (IOU) of 0.9334, mean IOU of 0.9334**, weighted mean IOU of 0.9517, **pixel accuracy of 0.993, mean pixel accuracy of 0.9931, dice coefficient of 0.9744, mean boundary F1 score of 0.9504**, precision of 0.9778, recall of 0.9769, F1 score of 0.9773, specificity of 0.9959, loss of 0.0282, and accuracy of 0.9931.
    
-   **the classification model** achieved a maximum success rate for blackspot, citrus canker, citrus greening, and healthy class in the citrus leaves dataset, with a 98% success rate for overall citrus plant diseases.
+   **the classification model** achieved a maximum success rate for blackspot, citrus canker, citrus greening, and healthy class in the citrus leaves dataset, with a **98% success rate for overall citrus plant diseases**.
 
    
