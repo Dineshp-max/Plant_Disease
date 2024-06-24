@@ -15,4 +15,4 @@
   Scikit-learn
   Matplotlib
 
-4. 
+4. Clone the repository: git clone 
