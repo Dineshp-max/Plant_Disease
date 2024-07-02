@@ -28,6 +28,7 @@
    The dataset used for this project should contain two types of dataset,
    a) The segmentation dataset contaion Masked images, Overlayed images, Original images of the dataset in a seperate folders for segmentation.
    b) The classification dataset contains enhanced and augumented images that should be organized in subdirectories, each images should be seperated and present on the corresponding disease directories.
+  **c) Data Availability:** https://doi.org/10.5281/zenodo.11649484
 
 **8. Training:**
    The training process involves: Loading and unziping the dataset for segmentation and classification. Train the model for on the dataset.
